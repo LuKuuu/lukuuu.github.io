@@ -1,0 +1,10 @@
+.dropbox.attr
+_site/
+.jekyll-metadata
+*.lock
+Original Design/
+__pycache__/
+.bundle/
+venv/
+dist/
+*.egg-info/
