@@ -21,6 +21,7 @@ In other words, you are free to modify the work - provided you also release thos
 Usage
 -------
 	git clone https://github.com/LuKuuu/chengyang-li.github.io.git
+	cd chengyang-li.github.io
 	go build main.go
 	chmod +x chengyang-li.github.io
 	./chengyang-li.github.io
