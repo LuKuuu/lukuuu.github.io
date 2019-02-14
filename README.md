@@ -17,3 +17,11 @@ License
 
 
 In other words, you are free to modify the work - provided you also release those modifications under the same license - and use it as you like, as long as it isn't commercial.
+
+Usage
+-------
+	git clone https://github.com/LuKuuu/chengyang-li.github.io.git
+	go build main.go
+	chmod +x chengyang-li.github.io
+	./chengyang-li.github.io
+Then you can go to 127.0.0.1:80 to visit the webpage.
