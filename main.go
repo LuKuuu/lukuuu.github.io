@@ -3,22 +3,20 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"html/template"
 	"io/ioutil"
 	"net/http"
 )
 
 func homepage(w http.ResponseWriter, r *http.Request) {
-	t, err := template.ParseFiles("./index.html")
+	index, err := ioutil.ReadFile("./index.html")
 	if err != nil {
-		panic(err)
+		fmt.Fprintf(w, "error in reading index: %v\n", err)
 		return
 	}
 
-	err = t.Execute(w, nil)
-	if err != nil {
-		fmt.Printf("%v", err)
-	}
+	//it's an odd issue, I don't know why this happen
+	w.Header().Add("Content-Type", "text/html")
+	fmt.Fprintf(w, string(index))
 }
 
 type config struct {
