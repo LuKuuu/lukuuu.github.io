@@ -24,5 +24,5 @@ Usage
 	cd chengyang-li.github.io
 	go build main.go
 	chmod +x chengyang-li.github.io
-	./chengyang-li.github.io
+	./chengyang-li.github.io &
 Then you can go to http://127.0.0.1:80 to visit the webpage.
