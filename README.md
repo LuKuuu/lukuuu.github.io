@@ -11,7 +11,7 @@ License
 
 <div class="license">
 	<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a> This work by <a xmlns:cc="http://creativecommons.org/ns#" href="http://chengyang-li.com" property="cc:attributionName" rel="cc:attributionURL">Chengyang Li</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-	Copyright 2017-2018 Chengyang Li.
+	Copyright 2017-2019 Chengyang Li.
 </div>
 
 
@@ -22,7 +22,7 @@ Usage
 -------
 	git clone https://github.com/LuKuuu/chengyang-li.github.io.git
 	cd chengyang-li.github.io
-	go build main.go
+	go build
 	chmod +x chengyang-li.github.io
-	./chengyang-li.github.io
+	./chengyang-li.github.io &
 Then you can go to http://127.0.0.1:80 to visit the webpage.
