@@ -36,7 +36,8 @@
                     monthText = '' + monthText;
                 }
                 text += "<h3>" + monthNames[month] + ", " + year + "</h3>";
-                text += "<img src='mp/" + year + "/" + monthText + ".JPG'  width='500'>";
+                let photoPath = "mp/" + year + "/" + monthText + ".JPG";
+                text += "<a href='" + photoPath + "'><img src='" + photoPath + "'  width='500'></a>";
 
 
             }
