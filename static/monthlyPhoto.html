@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>monthly photo</title>
+</head>
+
+<body>
+
+    <h1>monthly photo</h1>
+    <div id="jump"></div>
+    <div id="photos"></div>
+
+    <img src='mp/2017/01.jpg'>
+    <script>
+
+
+        const monthNames = ["January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December"
+        ];
+
+
+        let jump = "quick jump: ";
+        for (let year = 2021; year >= 2017; year--) {
+            jump += "<a href='#" + year + "'>" + year + "</a>|";
+        }
+        document.getElementById("jump").innerHTML = jump;
+        let text = "";
+        for (let year = 2021; year >= 2017; year--) {
+            text += "<h2><a name='" + year + "'>" + year + "</a></h2>";
+            for (let month = 0; month < 12; month++) {
+
+                let monthText = month + 1;
+                if (month < 10) {
+                    monthText = '0' + monthText;
+                } else {
+                    monthText = '' + monthText;
+                }
+                text += "<h3>" + monthNames[month] + ", " + year + "</h3>";
+                text += "<img src='mp/" + year + "/" + monthText + ".jpg'  width='500'>";
+
+
+            }
+
+        }
+
+        document.getElementById("photos").innerHTML = text;
+    </script>
+
+</body>
+
+</html>
