@@ -18,14 +18,14 @@
             "July", "August", "September", "October", "November", "December"
         ];
 
-
+        let endYear = 2022;
         let jump = "quick jump: ";
-        for (let year = 2021; year >= 2017; year--) {
+        for (let year = endYear; year >= 2017; year--) {
             jump += "<a href='#" + year + "'>" + year + "</a>|";
         }
         document.getElementById("jump").innerHTML = jump;
         let text = "";
-        for (let year = 2021; year >= 2017; year--) {
+        for (let year = endYear; year >= 2017; year--) {
             text += "<h2><a name='" + year + "'>" + year + "</a></h2>";
             for (let month = 11; month >= 0; month--) {
 
