@@ -18,9 +18,10 @@
             "July", "August", "September", "October", "November", "December"
         ];
 
-        let endYear = 2022;
+        let endYear = 2023;
+        let startYear = 2017;
         let jump = "quick jump: ";
-        for (let year = endYear; year >= 2017; year--) {
+        for (let year = endYear; year >= startYear; year--) {
             jump += "<a href='#" + year + "'>" + year + "</a>|";
         }
         document.getElementById("jump").innerHTML = jump;
