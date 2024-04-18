@@ -1,4 +1,4 @@
-Start
+# Start
 
 I plan to take some notes daily to improve my English skills and record some of my thoughts. Bulletin points suit me compared with a random chunk of text. my mind usually jumps from one idea to another, but I don’t have the energy/motivation to finish everything.
 
