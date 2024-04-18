@@ -1,18 +1,18 @@
 Start
 
-I’m planning to take some notes every day for improving my English skill and record some of my minds. I find bulletin points suits me compared with a random chunk of texts. my mind usually jumps from one idea to another, but I don’t have the energy/motivation to finish everything.
+I plan to take some notes daily to improve my English skills and record some of my thoughts. Bulletin points suit me compared with a random chunk of text. my mind usually jumps from one idea to another, but I don’t have the energy/motivation to finish everything.
 
 list of things I want to write
 
-1. list of books I read or I want to read
+1. list of books I read or want to read
 2. list of TV shows
 3. MBTI
-4. thought in lives, romance relationships 
-5. race: how asian affect my behaviour
-6. english, grammar 
+4. thought in lives, romantic relationships 
+5. race: how as an Asian affect my behavior
+6. English, grammar 
 7. travelling, and feelings
 8. how to conquer pride
-9. vancouver, waterloo
+9. Vancouver, Waterloo
 10. thought on foods
 11. exercise: golfing/yoga
 12. ways to relax myself
@@ -21,13 +21,13 @@ list of things I want to write
 15. education systems: Chinese/Canada/US
 16. food list
 17. how to write documentation
-18. why It’s hard to get alone with parents
+18. Why it’s hard to get along with parents
 19. good relationships, bad relationships 
 20. Imagining I attended a US high school
 21. social media: TikTok
-22. memorable moments: tiktok/solve the company index problem/ parity framework
+22. memorable moments: TikTok/solve the company index problem/ parity framework
 23. Arena of Valor: Kirk/Magana/tulen/Iggy
-24. politics/ chinese government 
+24. politics/Chinese government 
 25. finance/ investment 
 26. immigration
 27. music
