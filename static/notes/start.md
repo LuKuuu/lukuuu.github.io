@@ -14,7 +14,7 @@ list of things I want to write
 8. how to conquer pride
 9. Vancouver, Waterloo
 10. thought on foods
-11. exercise: golfing/yoga
+11. exercise: golfing/yoga/swimming
 12. ways to relax myself
 13. potential topics for research
 14. companies/working experience/collaboration
@@ -32,3 +32,11 @@ list of things I want to write
 26. immigration
 27. music
 28. Micah’s leave
+29. Canada VS California
+30. Canada East coast VS Canada West coast
+31. High School/Mid School love stories
+32. What's my thought on Rules
+33. Cat
+34. Lianyungang
+35. What's my one-day schedule
+36. Interesting list/websites for reading
